@@ -71,3 +71,7 @@ footer {
     max-height: 100vh;
     margin: auto;
 }
+
+a {
+  color: royalblue;
+}
